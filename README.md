@@ -1,4 +1,5 @@
 # MonyharBrowser-For-Android-Beta
+0. Monyhar仓库地址:https://github.com/monyhar/monyhar
 1. 这是我们全新自主研发的浏览器
 2. 当然我不是 Chrome 套壳
 3. Chrome 跟 chromium 是不一样的，chromium 能叫 Chrome 吗？
